@@ -10,7 +10,7 @@ ___________________________
 
 ## 📊 Key Dashboard Highlights
 
-
+![Image](https://github.com/user-attachments/assets/ab220e96-da8f-4b14-ba0b-912ec57625fe)
 
 The dashboard enables filtering, comparison, and drill-down views across the following domains:
 
@@ -108,30 +108,33 @@ ___________________________
 ### C1. Diagnosis & ALOS
 Arthritis is the most commonly diagnosed condition.
 ALOS stands at ~16 days.
-
+![Image](https://github.com/user-attachments/assets/b229da33-71e3-4414-b9ad-7d366a7a4652)
 
 
 ### C2. Test Results vs. Billing
 "Inconclusive" test results correlate with the *highest billing*, indicating inefficiency or anomaly.
 
+![Image](https://github.com/user-attachments/assets/e2d9a64d-cd3b-4c77-ac6f-608eb724d5eb)
 
 
 
 ### C3. Insurance & Medication Demand
-Cigna dominates the insurance share. 
+Cigna dominates the insurance market. 
 Lipitor and Ibuprofen are top-demand medications.
+![Image](https://github.com/user-attachments/assets/e8765c9a-274f-4a28-8963-0e5876562f42)
 
 
 
 ### C4. Monthly Admission Trend
 Noticeable spike in admissions between *May and September* each year.
+![Image](https://github.com/user-attachments/assets/41109325-5534-450a-b185-8f64376f47fa)
 
 
 
 
 ___________________________
 
-## 💼 Tools & Tech
+# 💼 Tools & Tech
 
 - *Power BI* (dashboard and data modeling)
 - Excel (ETL and data prep)
@@ -158,7 +161,7 @@ RETURN
 
 ___________________________
 
-##📈 Analytical Techniques
+# 📈 Analytical Techniques
 
 Aggregation and filtering by diagnosis, test result, and insurer
 
@@ -170,13 +173,13 @@ Identification of high-impact cost drivers
 
 ___________________________
 
-##✅ Summary
+# ✅ Summary
 
 This project demonstrates the use of healthcare data analytics to derive operational and clinical insights. With a focus on real-world metrics such as length of stay, billing variance, and diagnostic efficiency, the dashboard is designed to support stakeholders in hospital administration, clinical quality teams, and insurance coordination.
 
 ____________________________
 
-🚀 How to Use
+# 🚀 How to Use
 
 1. Download the .pbix file from this repository.
 2. Open it using Power BI Desktop (free from Microsoft).
