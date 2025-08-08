@@ -179,8 +179,8 @@ This project demonstrates the use of healthcare data analytics to derive operati
 
 ____________________________
 
-Tags - #Healthcareanalytics #Billingdashboard #PowerBI #DAX #Revenuecycle #Claimsdata
-       #DRGanalysis #CPTcodes #Denialrates #PortfolioProject
+#Healthcareanalytics #Billingdashboard #PowerBI #DAX #Revenuecycle #Claimsdata
+#DRGanalysis #CPTcodes #Denialrates #PortfolioProject
 
 # 🚀 How to Use
 
